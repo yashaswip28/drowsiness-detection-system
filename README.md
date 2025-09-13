@@ -17,7 +17,7 @@ This project detects driver drowsiness using real-time grayscale video input. It
 - Haar Cascade Classifiers
 
 ## 📁 Project Structure
-
+```
 DROWSINESS_detection/ 
 ├── haar_cascade_files/ 
 │ ├── haarcascade_frontalface_alt.xml 
@@ -36,6 +36,7 @@ DROWSINESS_detection/
 ├── .gitignore 
 ├── config.py
 └── README.md
+```
 
 
 ## 🚀 Getting Started
