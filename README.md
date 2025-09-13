@@ -72,7 +72,7 @@ Score increments with closed eyes.
 
 Alarm triggers when score ≥ 25.
 
-Score drops by 5 when eyes reopen and focus is regained.
+Score drops by 3 when eyes reopen and focus is regained.
 
 ## 📌 Notes
 Ensure webcam access is granted.
